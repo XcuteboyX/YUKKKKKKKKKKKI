@@ -30,7 +30,7 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "567962630:AAFHU98rY_6mAyPNKI_Dxl4gzegZLh5ayP4",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -50,7 +50,7 @@
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "AQBiwL52ETK9lAJWZWBS8YhlcJ8oXW1ORZPva5dLhS2jCeS0eaBuq5Ky7XW2Ccu0Lj8Lv04pn2dkayrB8UNZ2GAH84jpzBc2qbPSjuNVWz1BJo-E4Fyzq8YZeQXwmtV0FOsWRaEpAkEiVNNJNQcqlMevyAD4DumzqeDXzU06Z95KszQCvfW02hwkpYvwjzf_8bJPE22y2C0nIfq68c2Siab4nD3WLuNiJNqZqUzUVMxsv4XoAuRirMGHpqQ5Bg2hrT2qVv_l1rMhJtgdSgOxy8vdLqS4PZfD6zZNdyq0McytNFWR_MhHiwZitaQCt-rXr8wrxyX775vQThFa4_CB4QnMAAAAAVvI_Wc",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -93,7 +93,7 @@
       "formation": {
           "worker": {
               "quantity": 1,
-              "size": "basic"
+              "size": "eco"
           }
       }
   }
